@@ -1,7 +1,7 @@
 # Primal-Dual Deep Deterministic Policy Gradient From Demonstrations
 
 Welcome to the PD-DDPGfD repository! This repository contains the code implementation for my thesis, which addresses the limitations of previous studies by proposing a safe deep reinforcement learning (DRL) algorithm. The algorithm is based on primal-dual optimization and imitation learning (IL) techniques, aiming to develop an adaptive controller for the optimal dispatch problem under uncertainty in Energy Hubs.
-![Alt Text](figures/PD_DDPGfD_Agent.eps)
+![Alt Text](figures/PD-DDPGFD.png)
 ## Overview
 
 The proposed algorithm takes into account the operational constraints of real-time scheduling in EH systems by utilizing cost networks. Unlike traditional DRL approaches that incorporate constraints as penalty terms in the reward function, this algorithm treats the constraints as independent cost functions. By doing so, it enhances the efficiency and effectiveness of the learning process.
