@@ -19,3 +19,37 @@ The performance of the proposed safe DRL algorithm is assessed based on the foll
   3. Utilization of the potential of AA-CAES
 
 A comparison is made between the proposed algorithm and a base DRL algorithm (DDPG) as well as a benchmark, providing insights into the algorithm's effectiveness and superiority. The details of the proposed methodology can be found in the thesis file.
+
+## Publication
+
+The methodology proposed in this thesis has been published as a journal paper in the *Journal of Energy Storage*. 
+
+**Title**: Optimal dispatch of an energy hub with compressed air energy storage: A safe reinforcement learning approach
+
+**Authors**: Alireza Daneshvar Garmroodi, Fuzhan Nasiri, Fariborz Haghighat
+
+**Journal**: Journal of Energy Storage
+
+**Volume**: 57
+
+**Pages**: 106147
+
+**Year**: 2023
+
+**Publisher**: Elsevier
+
+Citation:
+
+```
+@article{garmroodi2023optimal,
+  title={Optimal dispatch of an energy hub with compressed air energy storage: A safe reinforcement learning approach},
+  author={Garmroodi, Alireza Daneshvar and Nasiri, Fuzhan and Haghighat, Fariborz},
+  journal={Journal of Energy Storage},
+  volume={57},
+  pages={106147},
+  year={2023},
+  publisher={Elsevier}
+}
+```
+
+Please consider citing the paper if you use or reference the proposed methodology in your own research or work.
