@@ -20,8 +20,7 @@ The performance of the proposed safe DRL algorithm is assessed based on the foll
 
 A comparison is made between the proposed algorithm and a base DRL algorithm (DDPG) as well as a benchmark, providing insights into the algorithm's effectiveness and superiority. The details of the proposed methodology can be found in the thesis file.
 
-## Publication 
-[Publication](https://www.sciencedirect.com/science/article/abs/pii/S2352152X22021363)
+## Publication (https://www.sciencedirect.com/science/article/abs/pii/S2352152X22021363)
 
 The methodology proposed in this thesis has been published as a journal paper in the *Journal of Energy Storage*. 
 
